@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # code_docling_vs_tsvector
 porownanie systemow przetwarzania dokumentów i wyszukiwania semantycznego
 =======
@@ -153,4 +152,4 @@ W przypadku problemów:
 ## Licencja
 
 Ten projekt jest objęty licencją MIT - zobacz plik LICENSE dla szczegółów.
->>>>>>> e2a4e9d (inicjalne dodanie projektu)
+
